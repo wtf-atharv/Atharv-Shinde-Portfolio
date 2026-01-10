@@ -1,6 +1,14 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
+import Oracle from  "../../public/certs/Oracle.png";
+import Hack2Skill from "../../public/certs/hack2skill.png";
+import Adira from "../../public/certs/adira.png";
+import Codathon from "../../public/certs/codathon.png";
+import Bugbuzz from "../../public/certs/bugbuzz.png";
+import Dataloom from "../../public/certs/dataloom.png"; 
+
+
 // ✅ Certificates data (added URLs for View button)
 const CERTS = {
   tech: [
@@ -8,21 +16,21 @@ const CERTS = {
       title: "Cloud Computing",
       org: "Oracle",
       date: "2025",
-      img: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
+      img: Oracle,
       link: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
     },
     {
       title: "Solution Challenge",
       org: "Google Developers",
       date: "2023",
-      img: "/Atharv-Shinde-Portfolio/certs/hack2skill.png",
+      img: Hack2Skill,
       link: "/Atharv-Shinde-Portfolio/certs/hack2skill.png",
     },
     {
       title: "ADira",
       org: "SCET AI Club",
       date: "2025",
-      img: "/Atharv-Shinde-Portfolio/certs/adira.png",
+      img: Adira,
       link: "/Atharv-Shinde-Portfolio/certs/adira.png",
     },
   ],
@@ -31,21 +39,21 @@ const CERTS = {
       title: "codathon",
       org: "SCET tech fest",
       date: "2025",
-      img: "/Atharv-Shinde-Portfolio/certs/codathon.png",
+      img: Codathon,
       link: "/Atharv-Shinde-Portfolio/certs/codathon.png",
     },
     {
       title: "bugbuzz",
       org: "SCET tech fest",
       date: "2025",
-      img: "/Atharv-Shinde-Portfolio/certs/bugbuzz.png",
+      img: Bugbuzz,
       link: "/Atharv-Shinde-Portfolio/certs/bugbuzz.png",
     },
     {
       title: "Dataloom",
       org: "SCET",
       date: "2024",
-      img: "/Atharv-Shinde-Portfolio/certs/dataloom.png",
+      img: Dataloom,
       link: "/Atharv-Shinde-Portfolio/certs/dataloom.png",
     },
   ],

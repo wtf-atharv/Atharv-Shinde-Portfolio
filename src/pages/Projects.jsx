@@ -1,12 +1,14 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
+import Breast from '../../public/breastpred.jpg'
+import Grill from '../../public/res.png'
 
 const PROJECTS = [
   {
     title: 'Grill Resturant Frontend',
     desc: 'This repository contains a static HTML/CSS/JavaScript front-end for a restaurant website (Grill Restaurant). It is a plain, dependency-free site intended to be served as static files.',
-    ss: '/Atharv-Shinde-Portfolio/res.png',
+    ss: Grill ,
     tech: ['HTML', 'CSS', 'JavaScript'],
     live: 'https://wtf-atharv.github.io/Grill_Resturant_Frontend/',
     code: 'https://github.com/wtf-atharv/Grill_Resturant_Frontend'
@@ -54,7 +56,7 @@ const PROJECTS = [
   {
     title: '🧬 Breast Cancer Prediction',
     desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/Atharv-Shinde-Portfolio/breastpred.jpg',
+    ss: Breast,
     tech: ['scikit-learn', 'XGBoost', 'Pandas'],
     live: '#',
     code: 'https://github.com/kunjdesai/BreastCancerPrediction'
