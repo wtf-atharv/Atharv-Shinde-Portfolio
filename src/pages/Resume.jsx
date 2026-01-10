@@ -229,7 +229,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/resume.pdf"
+            src="/Atharv-Shinde-Portfolio/resume.pdf"
             title="Atharv Shinde Resume"
             style={{
               width: "100%",

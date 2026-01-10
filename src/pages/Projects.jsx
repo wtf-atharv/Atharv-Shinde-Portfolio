@@ -6,7 +6,7 @@ const PROJECTS = [
   {
     title: 'Grill Resturant Frontend',
     desc: 'This repository contains a static HTML/CSS/JavaScript front-end for a restaurant website (Grill Restaurant). It is a plain, dependency-free site intended to be served as static files.',
-    ss: '/res.png',
+    ss: '/Atharv-Shinde-Portfolio/res.png',
     tech: ['HTML', 'CSS', 'JavaScript'],
     live: 'https://wtf-atharv.github.io/Grill_Resturant_Frontend/',
     code: 'https://github.com/wtf-atharv/Grill_Resturant_Frontend'
@@ -14,7 +14,7 @@ const PROJECTS = [
   {
   title: '🧠 Mental Health Analyzer',
   desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: '/mentalhealth.jpg',
+  ss: '/Atharv-Shinde-Portfolio/mentalhealth.jpg',
   tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
   live: 'https://mental-health-analyzer.streamlit.app/',
   code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
@@ -22,7 +22,7 @@ const PROJECTS = [
   {
     title: '🤖 Indian Sign Language Interpreter',
     desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
-    ss: '/ISL.png',
+    ss: '/Atharv-Shinde-Portfolio/ISL.png',
     tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
     live: '#',
     code: 'https://github.com/kunjdesai/ISL-Interpreter'
@@ -30,7 +30,7 @@ const PROJECTS = [
   {
   title: '💼 Portfolio Website',
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
-  ss: '/portfolio.jpg',
+  ss: '/Atharv-Shinde-Portfolio/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
   code: 'https://github.com/kunj2803/Kunj-Portfolio'
@@ -38,7 +38,7 @@ const PROJECTS = [
   {
     title: '💬 DocuChat – Gemini AI Chatbot',
     desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
-    ss: '/Docuchat.png',
+    ss: '/Atharv-Shinde-Portfolio/Docuchat.png',
     tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
     live: 'https://docuchat-chatbot.streamlit.app/',
     code: 'https://github.com/kunj2803/Docuchat-Chatbot'
@@ -46,7 +46,7 @@ const PROJECTS = [
   {
     title: '📊 ProfileX – Data Profiler',
     desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
-    ss: '/ProfileX.png',
+    ss: '/Atharv-Shinde-Portfolio/ProfileX.png',
     tech: ['Streamlit', 'Pandas', 'Plotly'],
     live: 'https://profilex.streamlit.app/',
     code: 'https://github.com/kunjdesai/ProfileX'
@@ -54,7 +54,7 @@ const PROJECTS = [
   {
     title: '🧬 Breast Cancer Prediction',
     desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/breastpred.jpg',
+    ss: '/Atharv-Shinde-Portfolio/breastpred.jpg',
     tech: ['scikit-learn', 'XGBoost', 'Pandas'],
     live: '#',
     code: 'https://github.com/kunjdesai/BreastCancerPrediction'
