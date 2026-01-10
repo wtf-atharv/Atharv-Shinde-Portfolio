@@ -54,7 +54,7 @@ const PROJECTS = [
   {
     title: '🧬 Breast Cancer Prediction',
     desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/Atharv-Shinde-Portfolio/breastpred.jpg',
+    ss: '/Atharv-Shinde-Portfolio/docs/breastpred.jpg',
     tech: ['scikit-learn', 'XGBoost', 'Pandas'],
     live: '#',
     code: 'https://github.com/kunjdesai/BreastCancerPrediction'
