@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Oracle from "../../public/certs/Oracle.png"; 
+import Oracle from "../../docs/certs/Oracle.png"; 
 // ✅ Certificates data (added URLs for View button)
 const CERTS = {
   tech: [
