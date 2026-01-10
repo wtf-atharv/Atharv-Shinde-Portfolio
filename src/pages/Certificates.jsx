@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-
+import Oracle from "../../public/certs/Oracle.png"; 
 // ✅ Certificates data (added URLs for View button)
 const CERTS = {
   tech: [
@@ -8,7 +8,7 @@ const CERTS = {
       title: "Cloud Computing",
       org: "Oracle",
       date: "2025",
-      img: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
+      img: " Oracle",
       link: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
     },
     {
