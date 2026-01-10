@@ -1,12 +1,13 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import Oracle from  "../../public/certs/Oracle.png";
+
+import Oracle from "../../public/certs/Oracle.png";
 import Hack2Skill from "../../public/certs/hack2skill.png";
 import Adira from "../../public/certs/adira.png";
 import Codathon from "../../public/certs/codathon.png";
 import Bugbuzz from "../../public/certs/bugbuzz.png";
-import Dataloom from "../../public/certs/dataloom.png"; 
+import Dataloom from "../../public/certs/dataloom.png";
 
 
 // ✅ Certificates data (added URLs for View button)

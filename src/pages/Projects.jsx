@@ -3,12 +3,13 @@ import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 import Breast from '../../public/breastpred.jpg'
 import Grill from '../../public/res.png'
+import Mental from '../../public/mentalhealth.jpg'
 
 const PROJECTS = [
   {
     title: 'Grill Resturant Frontend',
     desc: 'This repository contains a static HTML/CSS/JavaScript front-end for a restaurant website (Grill Restaurant). It is a plain, dependency-free site intended to be served as static files.',
-    ss: Grill ,
+    ss: Grill,
     tech: ['HTML', 'CSS', 'JavaScript'],
     live: 'https://wtf-atharv.github.io/Grill_Resturant_Frontend/',
     code: 'https://github.com/wtf-atharv/Grill_Resturant_Frontend'
@@ -16,7 +17,7 @@ const PROJECTS = [
   {
   title: '🧠 Mental Health Analyzer',
   desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: '/Atharv-Shinde-Portfolio/mentalhealth.jpg',
+  ss: Mental,
   tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
   live: 'https://mental-health-analyzer.streamlit.app/',
   code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
