@@ -14,7 +14,7 @@ const CERTS = {
       title: "Cloud Computing",
       org: "Oracle",
       date: "2025",
-      img: Oracle,
+      <img src={Oracle} alt="Certificate" />,
       link: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
     },
     {
