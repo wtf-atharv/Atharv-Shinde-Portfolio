@@ -64,8 +64,13 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
+<<<<<<< HEAD
 * 📧 **Email:** [shindeatharv802@gmail.com]( shindeatharv802@gmail.com)
 * 💼 **LinkedIn:**[https://www.linkedin.com/in/atharv-shinde-b099a42b0?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/kunj-desai-07717b293/)
+=======
+* 📧 **Email:** [shindeatharv802@gmail.com](mailto:shindeatharv802@gmail.com)
+* 💼 **LinkedIn:** [[linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/atharv-shinde-b099a42b0/?utm_source=share_via&utm_content=profile&utm_medium=member_android)]([https://www.linkedin.com/in/kunj-desai-07717b293/](https://www.linkedin.com/in/atharv-shinde-b099a42b0/?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+>>>>>>> 4e7c64c43c67bc40116d921021ac262ef322197b
 
 ---
 
