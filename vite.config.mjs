@@ -5,7 +5,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/Atharv-Shinde-Portfolio/',
   build: {
-    outDir: '.',
-    emptyOutDir: false
+    outDir: 'docs'
   }
 })
