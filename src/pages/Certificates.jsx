@@ -14,7 +14,7 @@ const CERTS = {
       title: "Cloud Computing",
       org: "Oracle",
       date: "2025",
-      img: Oracle,
+      img: Oracle ,
       link: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
     },
     {
