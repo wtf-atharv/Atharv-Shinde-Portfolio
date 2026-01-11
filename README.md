@@ -6,7 +6,7 @@ NA
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[Atharv-Shinde-Portfolio]]](https://kunj-desai.vercel.app/)
+🌐 **Website:** [[[Atharv-Shinde-Portfolio]]](https://wtf-atharv.github.io/Atharv-Shinde-Portfolio/#/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
@@ -44,7 +44,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone gh repo clone wtf-atharv/Atharv-Shinde-Portfolio
 
 # 2️⃣ Navigate to project directory
 cd Atharv-Shinde-Portfolio
@@ -64,15 +64,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-<<<<<<< HEAD
 * 📧 **Email:** [shindeatharv802@gmail.com]( shindeatharv802@gmail.com)
-* 💼 **LinkedIn:**[https://www.linkedin.com/in/atharv-shinde-b099a42b0?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/kunj-desai-07717b293/)
-=======
-* 📧 **Email:** [shindeatharv802@gmail.com](mailto:shindeatharv802@gmail.com)
-* 💼 **LinkedIn:** [[linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/atharv-shinde-b099a42b0/?utm_source=share_via&utm_content=profile&utm_medium=member_android)]([https://www.linkedin.com/in/kunj-desai-07717b293/](https://www.linkedin.com/in/atharv-shinde-b099a42b0/?utm_source=share_via&utm_content=profile&utm_medium=member_android))
->>>>>>> 4e7c64c43c67bc40116d921021ac262ef322197b
-
----
+* 💼 **LinkedIn:**[https://www.linkedin.com/in/atharv-shinde-b099a42b0?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/atharv-shinde-b099a42b0/?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## 🌟 Deployment
 
