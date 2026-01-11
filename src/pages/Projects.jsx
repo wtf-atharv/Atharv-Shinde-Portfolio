@@ -36,7 +36,7 @@ const PROJECTS = [
   ss: '/Atharv-Shinde-Portfolio/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
-  code: 'https://github.com/kunj2803/Kunj-Portfolio'
+  code: 'https://github.com/wtf-atharv/Atharv-Shinde-Portfolio'
   },
   {
     title: '💬 DocuChat – Gemini AI Chatbot',
@@ -47,12 +47,12 @@ const PROJECTS = [
     code: 'https://github.com/kunj2803/Docuchat-Chatbot'
   },
   {
-    title: '📊 ProfileX – Data Profiler',
+    title: '📊 InsightPrep – Data Profiler',
     desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
     ss: '/Atharv-Shinde-Portfolio/ProfileX.png',
-    tech: ['Streamlit', 'Pandas', 'Plotly'],
-    live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
+    tech: ['Streamlit', 'Pandas', 'Plotly', 'NumPy', 'Seaborn', 'Matplotlib','scikit-learn'],
+    live: 'https://insightprep-pnbckxs3wm8sox4cnt2nx7.streamlit.app/',
+    code: 'https://github.com/wtf-atharv/InsightPrep'
   },
   {
     title: '🧬 Breast Cancer Prediction',
