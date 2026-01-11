@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Oracle from '../assets/certs/Oracle.png';
-import Hack2Skill from "../../public/certs/hack2skill.png";
+import Data from "../../public/certs/Data_Science.jpg";
 import Adira from "../../public/certs/adira.png";
 import Application from '../assets/certs/app_dev.jpg';
 import Cyber from "../../public/certs/cyber_security.jpg";
@@ -25,11 +25,11 @@ const CERTS = {
       link: "/Atharv-Shinde-Portfolio/certs/Oracle.png",
     },
     {
-      title: "Solution Challenge",
-      org: "Google Developers",
-      date: "2023",
-      img: Hack2Skill,
-      link: "/Atharv-Shinde-Portfolio/certs/hack2skill.png",
+      title: "Data Science",
+      org: "Codewithharry",
+      date: "2025",
+      img: Data,
+      link: "/Atharv-Shinde-Portfolio/certs/Data_Science.png",
     },
     {
       title: "ADira",
