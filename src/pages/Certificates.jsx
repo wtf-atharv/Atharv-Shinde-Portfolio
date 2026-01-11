@@ -3,9 +3,16 @@ import { motion, AnimatePresence } from "framer-motion";
 import Oracle from '../assets/certs/Oracle.png';
 import Hack2Skill from "../../public/certs/hack2skill.png";
 import Adira from "../../public/certs/adira.png";
-import Codathon from "../../public/certs/codathon.png";
-import Bugbuzz from "../../public/certs/bugbuzz.png";
-import Dataloom from "../../public/certs/dataloom.png";
+import Application from '../assets/certs/app_dev.jpg';
+import Cyber from "../../public/certs/cyber_security.jpg";
+import Micro from '../assets/certs/microprocessor.jpg';
+import Networking from '../assets/certs/networking.jpg';   
+import Operating from '../assets/certs/os.jpg';
+import Quality from '../assets/certs/quality.jpg';
+import Robotics from '../assets/certs/robotics.jpg';  
+import Software from '../assets/certs/testing.jpg';
+
+
 
 // ✅ Certificates data (added URLs for View button)
 const CERTS = {
@@ -34,25 +41,60 @@ const CERTS = {
   ],
   other: [
     {
-      title: "codathon",
+      title: "Application Development",
       org: "SCET tech fest",
       date: "2025",
-      img: Codathon,
-      link: "/Atharv-Shinde-Portfolio/certs/codathon.png",
+      img: Application,
+      link: "/Atharv-Shinde-Portfolio/certs/app_dev.png",
     },
     {
-      title: "bugbuzz",
+      title: "Cyber Security",
       org: "SCET tech fest",
-      date: "2025",
-      img: Bugbuzz,
-      link: "/Atharv-Shinde-Portfolio/certs/bugbuzz.png",
+      date: "2024",
+      img: Cyber,
+      link: "/Atharv-Shinde-Portfolio/certs/cyber_security.png",
     },
     {
-      title: "Dataloom",
+      title: "Microprocessor",     
       org: "SCET",
       date: "2024",
-      img: Dataloom,
-      link: "/Atharv-Shinde-Portfolio/certs/dataloom.png",
+      img: Micro,
+      link: "/Atharv-Shinde-Portfolio/certs/microprocessor.png",
+    },
+    {
+      title: "Networking",
+      org: "SCET",
+      date: "2025",
+      img: Networking,
+      link: "/Atharv-Shinde-Portfolio/certs/networking.png",
+    },
+    {
+      title: "Operating Systems",
+      org: "SCET",
+      date: "2024",
+      img: Operating,
+      link: "/Atharv-Shinde-Portfolio/certs/operating_systems.png",
+    },
+    {
+      title: "Quality Assurance",
+      org: "SCET",
+      date: "2025",
+      img: Quality,
+      link: "/Atharv-Shinde-Portfolio/certs/quality_assurance.png",
+    },
+    {
+      title: "Robotics",
+      org: "SCET",
+      date: "2023",
+      img: Robotics,
+      link: "/Atharv-Shinde-Portfolio/certs/robotics.png",
+    },
+    {
+      title: "Software Testing",
+      org: "SCET",
+      date: "2025",
+      img: Software,
+      link: "/Atharv-Shinde-Portfolio/certs/software_testing.png",
     },
   ],
 };
