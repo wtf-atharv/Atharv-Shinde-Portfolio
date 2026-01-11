@@ -44,7 +44,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone gh repo clone wtf-atharv/Atharv-Shinde-Portfolio
 
 # 2️⃣ Navigate to project directory
 cd Atharv-Shinde-Portfolio
