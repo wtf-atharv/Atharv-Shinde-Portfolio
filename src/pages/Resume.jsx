@@ -105,7 +105,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech in Computer Science Engineering</strong> — Ajeenkya D Y Patil University
               , 2022–2026 <br />
-              <span style={{ color: "#aaa" }}>CGPA: 8.23</span>
+              <span style={{ color: "#aaa" }}>CGPA: 8.40</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>12th Board — Anandsagar Public School & Junior College, Tasgoan</strong> (2022) <br />
