@@ -14,6 +14,7 @@ const PROJECTS = [
     live: 'https://wtf-atharv.github.io/Grill_Resturant_Frontend/',
     code: 'https://github.com/wtf-atharv/Grill_Resturant_Frontend'
   },
+  
   // {
   // title: '🧠 Mental Health Analyzer',
   // desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
