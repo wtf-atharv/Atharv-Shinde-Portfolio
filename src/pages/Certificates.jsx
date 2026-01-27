@@ -31,13 +31,13 @@ const CERTS = {
       img: Data,
       link: "/Atharv-Shinde-Portfolio/certs/Data_Science.png",
     },
-    {
-      title: "ADira",
-      org: "SCET AI Club",
-      date: "2025",
-      img: Adira,
-      link: "/Atharv-Shinde-Portfolio/certs/adira.png",
-    },
+    // {
+    //   title: "ADira",
+    //   org: "SCET AI Club",
+    //   date: "2025",
+    //   img: Adira,
+    //   link: "/Atharv-Shinde-Portfolio/certs/adira.png",
+    // },
   ],
   other: [
     {

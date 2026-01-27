@@ -14,22 +14,24 @@ const PROJECTS = [
     live: 'https://wtf-atharv.github.io/Grill_Resturant_Frontend/',
     code: 'https://github.com/wtf-atharv/Grill_Resturant_Frontend'
   },
-  {
-  title: '🧠 Mental Health Analyzer',
-  desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: Mental,
-  tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
-  live: 'https://mental-health-analyzer.streamlit.app/',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
-  },
-  {
-    title: '🤖 Indian Sign Language Interpreter',
-    desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
-    ss: '/Atharv-Shinde-Portfolio/ISL.png',
-    tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
-    live: '#',
-    code: 'https://github.com/kunjdesai/ISL-Interpreter'
-  },
+  // {
+  // title: '🧠 Mental Health Analyzer',
+  // desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
+  // ss: Mental,
+  // tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
+  // live: 'https://mental-health-analyzer.streamlit.app/',
+  // code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
+  // },
+
+  
+  // {
+  //   title: '🤖 Indian Sign Language Interpreter',
+  //   desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
+  //   ss: '/Atharv-Shinde-Portfolio/ISL.png',
+  //   tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
+  //   live: '#',
+  //   code: 'https://github.com/kunjdesai/ISL-Interpreter'
+  // },
   {
   title: '💼 Portfolio Website',
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
@@ -38,14 +40,14 @@ const PROJECTS = [
   live: '#',
   code: 'https://github.com/wtf-atharv/Atharv-Shinde-Portfolio'
   },
-  {
-    title: '💬 DocuChat – Gemini AI Chatbot',
-    desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
-    ss: '/Atharv-Shinde-Portfolio/Docuchat.png',
-    tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
-    live: 'https://docuchat-chatbot.streamlit.app/',
-    code: 'https://github.com/kunj2803/Docuchat-Chatbot'
-  },
+  // {
+  //   title: '💬 DocuChat – Gemini AI Chatbot',
+  //   desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
+  //   ss: '/Atharv-Shinde-Portfolio/Docuchat.png',
+  //   tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
+  //   live: 'https://docuchat-chatbot.streamlit.app/',
+  //   code: 'https://github.com/kunj2803/Docuchat-Chatbot'
+  // },
   {
     title: '📊 InsightPrep – Data Profiler',
     desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
