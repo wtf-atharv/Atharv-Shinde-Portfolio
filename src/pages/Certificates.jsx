@@ -31,6 +31,7 @@ const CERTS = {
       img: Data,
       link: "/Atharv-Shinde-Portfolio/certs/Data_Science.png",
     },
+    
     // {
     //   title: "ADira",
     //   org: "SCET AI Club",
