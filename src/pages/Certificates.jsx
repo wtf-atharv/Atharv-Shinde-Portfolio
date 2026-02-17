@@ -11,6 +11,7 @@ import Operating from '../assets/certs/os.jpg';
 import Quality from '../assets/certs/quality.jpg';
 import Robotics from '../assets/certs/robotics.jpg';  
 import Software from '../assets/certs/testing.jpg';
+import jp from    "../assets/certs/jp.jpg";
 
 
 
@@ -32,67 +33,67 @@ const CERTS = {
       link: "/Atharv-Shinde-Portfolio/certs/Data_Science.png",
     },
     
-    // {
-    //   title: "ADira",
-    //   org: "SCET AI Club",
-    //   date: "2025",
-    //   img: Adira,
-    //   link: "/Atharv-Shinde-Portfolio/certs/adira.png",
-    // },
+    {
+      title: "Software Engineering Job Simulation",
+      org: "Forage",
+      date: "2026",
+      img: jp,
+      link: "/Atharv-Shinde-Portfolio/certs/adira.png",
+    },
   ],
   other: [
     {
       title: "Application Development",
-      org: "SCET tech fest",
+      org: "Mindluster",
       date: "2025",
       img: Application,
       link: "/Atharv-Shinde-Portfolio/certs/app_dev.png",
     },
     {
       title: "Cyber Security",
-      org: "SCET tech fest",
+      org: "Mindluster",
       date: "2024",
       img: Cyber,
       link: "/Atharv-Shinde-Portfolio/certs/cyber_security.png",
     },
     {
       title: "Microprocessor",     
-      org: "SCET",
+      org: "Mindluster",
       date: "2024",
       img: Micro,
       link: "/Atharv-Shinde-Portfolio/certs/microprocessor.png",
     },
     {
       title: "Networking",
-      org: "SCET",
+      org: "Mindluster",
       date: "2025",
       img: Networking,
       link: "/Atharv-Shinde-Portfolio/certs/networking.png",
     },
     {
       title: "Operating Systems",
-      org: "SCET",
+      org: "Mindluster",
       date: "2024",
       img: Operating,
       link: "/Atharv-Shinde-Portfolio/certs/operating_systems.png",
     },
     {
       title: "Quality Assurance",
-      org: "SCET",
+      org: "Mindluster",
       date: "2025",
       img: Quality,
       link: "/Atharv-Shinde-Portfolio/certs/quality_assurance.png",
     },
     {
       title: "Robotics",
-      org: "SCET",
+      org: "Mindluster",
       date: "2023",
       img: Robotics,
       link: "/Atharv-Shinde-Portfolio/certs/robotics.png",
     },
     {
       title: "Software Testing",
-      org: "SCET",
+      org: "Mindluster",
       date: "2025",
       img: Software,
       link: "/Atharv-Shinde-Portfolio/certs/software_testing.png",
