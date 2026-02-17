@@ -9,7 +9,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[[Atharv-Shinde-Portfolio]]](https://wtf-atharv.github.io/Atharv-Shinde-Portfolio/#/)
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src= "home.jpg" />
+<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src= "[home.jpg](https://github.com/wtf-atharv/Atharv-Shinde-Portfolio/blob/main/docs/home.jpg)" />
 <img width="1894" height="992" alt="image" src="pro.jpg" />
 <img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="cer.jpg" />
 ---
