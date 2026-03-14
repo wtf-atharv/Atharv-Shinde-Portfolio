@@ -238,6 +238,167 @@ const AboutMe = () => {
             </motion.div>
           </div>
         </motion.div>
+
+
+        {/* --- Experience Section --- */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.8, duration: 0.8 }}
+          style={{ marginTop: "3rem" }}
+        >
+          <h3
+            style={{
+              fontSize: "1.6rem",
+              marginBottom: "1.5rem",
+              background:
+                "linear-gradient(90deg, var(--accent), var(--accent-2))",
+              WebkitBackgroundClip: "text",
+              color: "transparent",
+            }}
+          >
+            Experience
+          </h3>
+
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              gap: "1.2rem",
+            }}
+          >
+            {/* --- Experience Card 1 --- */}
+            <motion.div
+              whileHover={{
+                scale: 1.02,
+                boxShadow: "0 0 25px rgba(0,255,200,0.15)",
+              }}
+              transition={{ duration: 0.3 }}
+              style={{
+                background: "rgba(255,255,255,0.05)",
+                borderRadius: "14px",
+                padding: "1.5rem 2rem",
+                border: "1px solid rgba(255,255,255,0.08)",
+                boxShadow: "0 0 15px rgba(0,255,200,0.05)",
+                display: "flex",
+                alignItems: "center",
+                gap: "1.2rem",
+              }}
+            >
+              <FaGraduationCap size={300} color="var(--accent)" />
+              <div>
+                <h4
+                  style={{
+                    color: "var(--accent)",
+                    marginBottom: "0.4rem",
+                    fontSize: "1.25rem",
+                  }}
+                >
+                 JPMorganChase Software Engineering Job Simulation on Forage
+                </h4>
+                <p
+                  style={{
+                    color: "rgba(255,255,255,0.85)",
+                    marginBottom: "0.2rem",
+                  }}
+                >
+                  <p>Integrated Apache Kafka with a Spring Boot microservice to consume and process high-volume transaction messages using configurable topics. Implemented transaction validation and persistence using Spring Data JPA with an H2 SQL database, including entity modeling and user balance updates. Integrated an external REST Incentive API using RestTemplate to process incentives within transaction workflows. Developed a REST endpoint to retrieve user balances in JSON format while maintaining clean service architecture. Ensured system reliability through Maven-based testing and debugging across message ingestion, database operations, and external API interactions.</p>
+                </p>
+
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>
+                  February 17, 2026
+                </p>
+                
+              </div>
+            </motion.div>
+
+            {/* --- Education Card 2 --- */}
+            <motion.div
+              whileHover={{
+                scale: 1.02,
+                boxShadow: "0 0 25px rgba(0,255,200,0.15)",
+              }}
+              transition={{ duration: 0.3 }}
+              style={{
+                background: "rgba(255,255,255,0.05)",
+                borderRadius: "14px",
+                padding: "1.5rem 2rem",
+                border: "1px solid rgba(255,255,255,0.08)",
+                boxShadow: "0 0 15px rgba(0,255,200,0.05)",
+                display: "flex",
+                alignItems: "center",
+                gap: "1.2rem",
+              }}
+            >
+              <FaGraduationCap size={250} color="var(--accent)" />
+              <div>
+                <h4
+                  style={{
+                    color: "var(--accent)",
+                    marginBottom: "0.4rem",
+                    fontSize: "1.25rem",
+                  }}
+                >
+                  Commonwealth Bank - Introduction to Data Science Job Simulation
+                </h4>
+                <p
+                  style={{
+                    color: "rgba(255,255,255,0.85)",
+                    marginBottom: "0.2rem",
+                  }}
+                >
+                  I completed the Commonwealth Bank Introduction to Data Science Virtual Experience on Forage, gaining hands-on exposure to data management and data engineering tasks. I designed data pipelines to aggregate datasets and extract insights, anonymized sensitive information to ensure data privacy compliance, and proposed analysis methods for social media data. I also designed a structured database to store tweets, replies, and user interactions efficiently, strengthening my understanding of real-world data science workflows.
+                </p>
+                
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>March 14, 2026</p>
+              </div>
+            </motion.div>
+
+            {/* --- Education Card 3 --- */}
+            {/* <motion.div
+              whileHover={{
+                scale: 1.02,
+                boxShadow: "0 0 25px rgba(0,255,200,0.15)",
+              }}
+              transition={{ duration: 0.3 }}
+              style={{
+                background: "rgba(255,255,255,0.05)",
+                borderRadius: "14px",
+                padding: "1.5rem 2rem",
+                border: "1px solid rgba(255,255,255,0.08)",
+                boxShadow: "0 0 15px rgba(0,255,200,0.05)",
+                display: "flex",
+                alignItems: "center",
+                gap: "1.2rem",
+              }}
+            >
+              <FaSchool size={36} color="var(--accent)" />
+              <div>
+                <h4
+                  style={{
+                    color: "var(--accent)",
+                    marginBottom: "0.4rem",
+                    fontSize: "1.25rem",
+                  }}
+                >
+                  Secondary Education (10th Grade)
+                </h4>
+                <p
+                  style={{
+                    color: "rgba(255,255,255,0.85)",
+                    marginBottom: "0.2rem",
+                  }}
+                >
+                  <strong>Vidya Mandir Prashala, Miraj</strong> — Miraj, Sangli, Maharashtra
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>
+                  Maharashtra State Board | Percentage: 88.80%
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
+              </div>
+            </motion.div> */}
+          </div>
+        </motion.div>
       </motion.div>
     </div>
   );

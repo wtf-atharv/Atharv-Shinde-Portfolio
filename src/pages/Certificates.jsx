@@ -12,6 +12,7 @@ import Quality from '../assets/certs/quality.jpg';
 import Robotics from '../assets/certs/robotics.jpg';  
 import Software from '../assets/certs/testing.jpg';
 import jp from    "../assets/certs/jp.jpg";
+import cw from    "../assets/certs/common.jpg";
 
 
 
@@ -39,6 +40,14 @@ const CERTS = {
       date: "2026",
       img: jp,
       link: "/Atharv-Shinde-Portfolio/certs/adira.png",
+    },
+
+    {
+      title: "Data Science Job Simulation",
+      org: "Forage",
+      date: "2026",
+      img: cw,
+      link: "/Atharv-Shinde-Portfolio/certs/common.png",
     },
   ],
   other: [
