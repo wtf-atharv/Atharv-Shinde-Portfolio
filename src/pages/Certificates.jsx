@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Oracle from '../assets/certs/Oracle.png';
-import Data from "../../public/certs/Data_Science.jpg";
-import Adira from "../../public/certs/adira.png";
+import Data from "../assets/certs/Data_Science.jpg";
+import Adira from "../assets/certs/adira.png";
 import Application from '../assets/certs/app_dev.jpg';
-import Cyber from "../../public/certs/cyber_security.jpg";
+import Cyber from "../assets/certs/cyber_security.jpg";
 import Micro from '../assets/certs/microprocessor.jpg';
 import Networking from '../assets/certs/networking.jpg';   
 import Operating from '../assets/certs/os.jpg';
@@ -13,6 +13,8 @@ import Robotics from '../assets/certs/robotics.jpg';
 import Software from '../assets/certs/testing.jpg';
 import jp from    "../assets/certs/jp.jpg";
 import cw from    "../assets/certs/common.jpg";
+import research from "../assets/certs/research.jpg";
+import copyright from "../assets/certs/copyright.jpg";
 
 
 
@@ -48,6 +50,22 @@ const CERTS = {
       date: "2026",
       img: cw,
       link: "/Atharv-Shinde-Portfolio/certs/common.png",
+    },
+
+    {
+      title: "Research Publication & Conference Presentation",
+      org: " ICSICE 2026",
+      date: "2026",
+      img: research,
+      link: "/Atharv-Shinde-Portfolio/certs/research.png",
+    },
+
+    {
+      title: "Copyright Registration",
+      org: " ",
+      date: "2026",
+      img: copyright,
+      link: "/Atharv-Shinde-Portfolio/certs/copyright.png",
     },
   ],
   other: [

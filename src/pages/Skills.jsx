@@ -39,6 +39,7 @@ const ROWS = [
         "Machine Learning",
         "Deep Learning",
         "Data Science",
+        "Continuous Integration and Continuous Delivery/Deployment (CI/CD)",
        ],
     },
     {
